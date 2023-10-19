@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "szVTFndwY3u9nXx/bOHqtLttSQgkI8Xnv+hmcscBBbxiUCskheOPNdVBNZoI4IzFLdSb+0u4OlOu8jqn1UnDNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haswa\\OneDrive\\Desktop\\fallsem2023\\DOSP\\F# program\\firstprogram\\firstprogram.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haswa\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
